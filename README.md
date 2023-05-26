@@ -95,7 +95,7 @@ Para executar o código, siga estas etapas:
 5. Execute o arquivo Python digitando o seguinte comando:
 
    ```
-   python interface_login.py
+   python login.py
    ```
 
 6. Após a execução do código, a janela de login será exibida com os campos de entrada, botões e funcionalidades associadas.
