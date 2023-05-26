@@ -88,7 +88,7 @@ Para executar o código, siga estas etapas:
 
 2. Crie um novo arquivo Python e copie o código fornecido para o arquivo.
 
-3. Salve o arquivo com um nome adequado, como "interface_login.py".
+3. Salve o arquivo com um nome adequado, como "login.py".
 
 4. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo Python foi salvo.
 
